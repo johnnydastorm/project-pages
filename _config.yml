@@ -1,5 +1,5 @@
 # Site settings
-title: Hopeful Technologies and other silly ideas
+title: Hopeful Ideas
 description: "A place for outlandish ideas to solve intractable problems"
 url: "https://johnnydastorm.github.io"
 
@@ -8,7 +8,7 @@ url: "https://johnnydastorm.github.io"
 
 # Secondary Parameters
 baseurl: "/project-pages"
-header-img: img/peppermint-1050x591.jpg
+header-img: img/placeholderBG.png
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/placeholder.png
 
