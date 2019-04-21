@@ -1,6 +1,6 @@
 # Site settings
 title: Hopeful Ideas
-description: "A place for outlandish ideas to solve intractable problems"
+description: "A place for outlandish ideas to solve intractable problems ... currently under development"
 url: "https://johnnydastorm.github.io"
 
 
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/placeholderBG.jpg"
 
 # Prose Settings
 prose:
