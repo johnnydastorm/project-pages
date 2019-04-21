@@ -39,14 +39,97 @@ Seen through the competitive, capitalist lens, there are obvious reasons for the
 It seems that some rebalancing may be required.  Where that balance lies is unclear but it is likely that presently we are very far from it.
 
 ### Proposal, vision
+Proposed herein is the establishment of a platform for the collaborative, open development of potentially useful ideas which, 
+for whatever reason, are difficult, impossible or inappropriate to nurture in existing frameworks.  It should be a place where any idea can be proposed, scrutinised, reshaped, forked, matured and, most importantly, shared.  
+
+Specifically, what is envisaged is an online platform on which ideas can be proposed and described in a flexible standardised format, resembling somewhat the structure of an academic research paper (or at least the first part of one) with parallel spaces in each section for discussion, highlighting of known knowledge gaps and other relevant information which will shape and feed the evolving document (maybe we call it an Idea Development Document - IDD).  This document itself is presented in this proposed format, albeit an alpha version.
+
+As changes and contributions are made, they are recorded in a manner which provides attribution to the contributor and the time of the contribution in a way which can be recognised as constituting IP ownership.  Initially it is envisaged that this may be achieved by recording the activity on a blockchain ledger, although that may need to be bolstered by a separate, blockchain backed IP database with legal recognition.  The realisation of such a thing may come to form an essential component or parallel activity to the original endeavour.
+
+Upon maturity, an IDD could serve as the foundation for a business plan, a research grant application or the blueprint for a formal patent application (if such a thing is required).  Simultaneously to any of these, it will serve as a permeant record of an idea that has been thoroughly explored and proven to be plausible or not by the combined efforts and expertise a community of contributors and the evidence and references they have provided.
+<p style="color:red">Getting someone like this on board early on could be good: (https://www.opentech.fund/) </p>
+
 
 ## Prior Art
 ### Conflicting
+Potential: Existing IP legislation and the established patent system.
+
 ### Solves the same problem
+None Identified
 ### Similar/inspirational/complimentary
+GitHub, Trello, Slack, WorldLabs, Reddit, Monday.com, various Wikis and many others
+<p style="color:red">A more exhaustive list and comparison of these might be useful.</p>
 
 ## Challenges
 ### Framing
+Primarily the platform must be technically robust and conceptually legitimate in the face of scrutiny.  A culture of idealistic openness must be balanced by one of pragmatic, realist professionalism.  Starting and remaining on the fringes is an acceptable long term outcome, but a roadmap to large scale recognition and impact should be a consistent consideration and steps taken towards that end as and when it seems like an appropriate goal.  The platform should be dynamic and responsive to the needs of users, external scrutiny and the underlying goal of being useful. 
+
 ### Practical system design
+The proposed platform will need to be responsive, dynamic and able to manage large volumes of data and many user accounts.  Simplicity will be key.  It may be possible to host it on and build it around a central GitHub repository using only a single template document which can be cloned for each new idea, but this topic requires thorough investigation. 
+<p style="color:red">Can we do this on GitHub or another existing (free) platform?</p>
+
+Membership and/or activity may require a small fee to cover administration, moderation and other costs (e.g. the cost of proving ownership on the Bitcoin Cash blockchain stands at ~0.01USD at the time of writing[1]).
+
+Particular usability features may include:
+* Up/down ranking.
+* Tagging on several conceptual levels. E.g. discipline: engineering/social/etc., application, specialism, other keywords 
+* Searchable archives
+* User profiles
+* Flagging for inappropriate content 
+
+Usage incentive features may include:
+* Contributor credit (metrics by quantity, words, links, pictures, which sections etc) 
+
+An early decision should be taken as whether users should be allowed to be anonymous or forced to represent themselves (like on Facebook).  The latter is likely to be far more complicated but may be greatly beneficial to the character of the platform. [A reference!][1]
+
+[1]:https://notary.bitcoin.com/proof/0411ac195d4fc62934df74b8965bff2fbbdd9ede87b37c9510f76b34807f44bb accessed 23/02/2019
+
+As with any online network of users, there will be data/identity protection laws to consider.
+<p style="color:red">Learn about managing a big user community.</p>
+
+
 ### IP protection
+The main challenge, aside from building and running an effective system, is to find a means to deliver on-the-fly IP protection to contributors in order to prevent ideas from exclusive exploitation and tactical shelving by wealthy organisations with patent machines.  As mentioned in the introduction, this could potentially be achieved with the use of blockchain technology. Detailed expert advice will be required to know if this is even a plausible idea and, if it proves not to be, the vision of openness may have to be altered substantially.
+<p style="color:red">Get advice from friendly IP professionals.</p> - **DONE, content to be added.**
+
+The potential parallel project of an establishment of a legally recognised, blockchain validated IP database/repository should be explored in detail.
+<p style="color:red">Learn more about this</p>
+
 ### Managing the distribution of IP ownership
+A fair system of allocation of ownership by contribution must be devised.  Debates around this may include quantity versus quality, a bonus for the idea originator, etc.
+
+Prevention of IP infringement within the platform This should be fairly manageable with an active, critical community and the explicit inclusion of the Prior Art section, however the onus may have to be on idea originators to conduct suitably thorough research before submitting a fresh proposal.
+
+Rogue users and spam If this platform were to take off it would likely encounter considerable hostility from the establishment.  Establishing a deep understanding of the inherit risks, both legal and otherwise, should be an early priority.
+
+Spam accounts created for the purposes of sabotage and/or general silliness are a serious concern which could impinge the usability and validity of the platform.  It is likely that a team of moderators would need to be employed to handle this although self policing by the user community could do a lot o the work.
+<p style="color:red">Learn more about these risks</p>
+
+## Ethics
+Ideas developed on the platform have to be useful and beneficial to the global community.  With this in mind it is essential for the subheadings in this section to be addressed throughout idea development.
+
+### Environmental sustainability, life cycle analysis etc 
+Aside from the use of energy to run computers, this platform is not likely to have an major environmental impact.
+
+### Social impact 
+If done properly the ideas developed on the platform will have tremendously positive social impact.  However, should it prove to be significantly disruptive then it should be recognised that even a broadly positive disruptive impact can have negative effects, both large and at the individua level, so foresight should be exercised to anticipate and mitigate these wherever possible.
+
+### Accessibility 
+Many of the ideas developed will necessarily be highly technical and intellectually inaccessible to many.  This is ok, but it would be nice to maintain an accessible public-engagement front to any maturing project.  Furthermore, the spirit of the platform dictates that any technology developed therein should strive towards realisation at a price point  low enough to maximise the accessibility of its benefits to as many people as possible.
+
+## Experimental/methods/proposed investigations
+### Achievable now
+Fill knowledge gaps above
+* In particular, obtain IP advice, address all legal issues and refine idea if necessary 
+* Conduct something akin to market research 
+
+Build alpha system **I suppose that's what this is**
+* Consider format for IDD template (e.g. markdown, web form, PDF, etc.)
+* Consider various hosting solutions (GitHub first, then a wiki like DocuWiki) 
+* Make it simple and elegant
+* Make it cross platform
+* Invite test users 
+
+### To pursue upon maturity
+Large scale roll out
+
