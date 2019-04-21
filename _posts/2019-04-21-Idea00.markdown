@@ -14,21 +14,21 @@ category:  global
 {:toc}
 
 <!-- idea name goes here -->
-#An open platform for the collaborative development of potentially useful ideas
+# An open platform for the collaborative development of potentially useful ideas
 <!-- project originator -->
-###Originator: Johnny da Storm
+### Originator: Johnny da Storm
 <!-- other contributors -->
-###Contributors: none yet
+### Contributors: none yet
 
-##Abstract
+## Abstract
 There are a lot of problems, but there are also lots of ideas.  Sadly many little flashes of inspiration never rise above the drudgery of life commitments and other weighty barriers to become the useful things they could be.
 
 Here’s an idea: we lay out the idea like this, with some background context and lots of empty spaces and areas where we know we need to learn more. We can have lots of ideas and we can slowly fill them in when we learn something and eventually we can gather and learn enough to throw them in the bin or maybe, just maybe, actually make or do something.
 
 You'll see what I mean…
 
-##Introduction
-###Background,need
+## Introduction
+### Background,need
 <p style="color:red">Add some references in this section.</p>
 A large quantity of human activity is concerned with generating, developing and realising ideas for the collective benefit of our global community.  Academic, commercial and social frameworks exist to support these endeavours and, while these frameworks can facilitate tremendous progress, there are undoubtedly a lot of very good ideas which fall through the cracks or never see light of day at all. Perhaps they are not trendy enough to attract scientific funding, not immediately/obviously  profitable enough for business or the originators lack some combination of the time, complete expertise, formal credentials and resources to develop them in any meaningful way.  Furthermore, to be successfully channelled through such a supportive framework necessitates the shaping of any idea so that it conforms to its cradle, be that the cradle a research grant, profit focussed corporate R&D department, short-term impact conscious charity fund or default-fearing bank loan.  This system can readily kill, cripple or detrimentally dilute ideas which could serve the world in a useful way.  Ultimately this is a result for the needs of the overarching framework of capitalist markets and economic growth, the pros and cons of which are beyond the scope of this document, but certainly could do with a bit of a shake up in the eyes of many.
 
@@ -38,15 +38,15 @@ Seen through the competitive, capitalist lens, there are obvious reasons for the
 
 It seems that some rebalancing may be required.  Where that balance lies is unclear but it is likely that presently we are very far from it.
 
-###Proposal, vision
+### Proposal, vision
 
-##Prior Art
-###Conflicting
-###Solves the same problem
-###Similar/inspirational/complimentary
+## Prior Art
+### Conflicting
+### Solves the same problem
+### Similar/inspirational/complimentary
 
-##Challenges
-###Framing
-###Practical system design
-###IP protection
-###Managing the distribution of IP ownership
+## Challenges
+### Framing
+### Practical system design
+### IP protection
+### Managing the distribution of IP ownership
