@@ -8,6 +8,20 @@ category:  global
 ---
 <!-- Start Writing Below in Markdown -->
 
+```
+code block
+```
+
+> **_NOTE:_**  The note content.
+
+
+---
+**NOTE**
+Note content
+
+---
+
+
 # Table of Contents
 
 * TOC
